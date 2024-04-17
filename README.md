@@ -28,7 +28,7 @@ Name: William Wadsworth<br>Education: Tampa Preparatory School, High Point Unive
 ![](https://github-readme-stats.vercel.app/api?username=LeviathanTurtle&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LeviathanTurtle&theme=dark&hide_border=true)<br/>
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeviathanTurtle&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)-->
-![](https://github-readme-stats-two-mu-89.vercel.app/api?username=LeviathanTurtle&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats-two-mu-89.vercel.app/api/top-langs/?username=LeviathanTurtle&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <!--
 ## 🏆 GitHub Trophies
