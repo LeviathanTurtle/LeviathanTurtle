@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!-- Generated via: https://gprm.itsvg.in/ -->
 
 # About Me:
-Name: William Wadsworth<br>Education: Tampa Preparatory School, High Point University<br>Major: Computer Science<br>Preferred languages: C/C++, Python<br>Currently learning: Rust, C#, Javascript<br>Hated languages: Rust, how to cope with liking Rust
+Name: William Wadsworth<br>Education: Tampa Preparatory School, High Point University<br>Major: Computer Science (BA)<br>Preferred languages: C/C++, Python<br>Currently learning: Rust, C#, Javascript, how to cope with liking Rust
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/william-wadsworth-32a824214)
