@@ -30,6 +30,7 @@ Note: My profile might seem a little barebones. This is because I am still worki
 # Tech Stack:
 that language image stuff went here-->
 
+<!--
 # GitHub Stats:
 <!-- doesnt work?
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=LeviathanTurtle&theme=dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)-->
@@ -38,6 +39,7 @@ that language image stuff went here-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeviathanTurtle&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--![](https://github-readme-stats-two-mu-89.vercel.app/api/top-langs/?username=LeviathanTurtle&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)-->
 <!--![](https://https://github-readme-stats-williams-projects-8a9f57a1.vercel.app/api/top-langs/?username=LeviathanTurtle&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)-->
+-->
 
 <!-- don't really care about any of this
 ## 🏆 GitHub Trophies
