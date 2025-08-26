@@ -30,9 +30,6 @@ For specifically these side projects, I've decided to do one of two things when 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/william-wadsworth-32a824214)
 
-<!--## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LeviathanTurtle&theme=radical&no-frame=true&no-bg=true&margin-w=4)-->
-
 <div align="center">
   <img src="https://github.com/LeviathanTurtle/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only"/>
   <img src="https://github.com/LeviathanTurtle/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only"/>
