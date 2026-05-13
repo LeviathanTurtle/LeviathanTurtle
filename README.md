@@ -18,11 +18,6 @@
 # About Me:
 Education: Tampa Preparatory School, High Point University<br>Major: Computer Science (B.S.)<br>Preferred languages: C/C++, Python<br>Currently learning: Rust, C#, Javascript, how to cope with liking Rust
 
-I am currently in the process of:
-- studying for certifications
-- working on a few side projects
-- learning new languages (namely Rust and Java)
-
 For specifically these side projects, I've decided to do one of two things when I feel they are ready to be shown:
 1. Make the repositories public, or
 2. Incorporate it into my website.
