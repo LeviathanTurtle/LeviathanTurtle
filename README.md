@@ -27,8 +27,8 @@ For specifically these side projects, I've decided to do one of two things when 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/william-wadsworth-32a824214)
 
 <div align="center">
-  <img src="https://github.com/LeviathanTurtle/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only"/>
-  <img src="https://github.com/LeviathanTurtle/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only"/>
+  <img src="https://github.com/LeviathanTurtle/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
+  <img src="https://github.com/LeviathanTurtle/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
 </div>
 
 <p align="right"> 
